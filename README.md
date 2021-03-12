@@ -9,19 +9,11 @@ Kiprotich Amos Koech/Olympians_Group3
 This application shows random quotes and it's authors to the users. The users can register to the app and log in to post their quotes or diaries on the website. They can also comment on other user's create, comment on their own or delete their comments if they found unnapropriate.   
 The application shows the date when the post was posted and also when the comment was posted.
 
-## Features
-
-- User can see a random quote on the app
-
-- New user can create his or her new account
-
-- Log in feature
-
-- User can create a diary
-
-- User can comment on his/her blog or other user's diaries
-
-- User can logout out of the application
+## User Stories
+* Users can create an account and log in.
+* Users can view all entries to their diary.
+* Users can view the contents of a diary entry.
+* Users can add or modify an entry.
 
 
 ## Setup Installation
@@ -38,15 +30,40 @@ The application shows the date when the post was posted and also when the commen
 
 5. Run python3.8 run.py to launch the app
 
-## Technologies used
+## SetUp / Installation Requirements
+Run 
+``git clone https://github.com/amoskipz/Mydiary.git``
 
-- Python 3.8.2
-- Flask
-- Heroku
+or download the zip file from github.
+
+After extracting the files, 
+
+1. Navigate to the project folder
+>``cd Mydiary.`` 
+
+2. Creating a virtual environment
+>``virtualenv virtual.``
+
+3. Activating the virtual environment
+>``source virtual/bin/activate.``
+
+4. Install all Requirements
+>``pip install -r requirements.txt.``
+
+6. Running the application to launch the server
+>``python3.8 run.py``
+
+
+## Technologies used
+* Python 3.8.2
+* Flask
+* Bootstrap
+* css3
+* Html5
 
 ## Bugs
 
-One known bug is on deleting a comment. This feature deletes together with the post.
+* One known bug is on deleting a comment. This feature deletes together with the post.
 
 
 ## License
