@@ -16,20 +16,6 @@ The application shows the date when the post was posted and also when the commen
 * Users can add or modify an entry.
 
 
-## Setup Installation
-
-1. Clone or download and unzip the repository from github https://github.com/amoskipz/Mydiary.git
-
-2. You can use this command (git clone https://github.com/amoskipz/Mydiary.git) to clone the project to your machine if you have git .
-
-3. cd into the project folder and open in text editor either code. or atom.
-
-4. Install all the requirements using this command:
-
-  - pip install -r requirements.txt
-
-5. Run python3.8 run.py to launch the app
-
 ## SetUp / Installation Requirements
 Run 
 ``git clone https://github.com/amoskipz/Mydiary.git``
