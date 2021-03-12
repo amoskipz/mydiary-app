@@ -1,0 +1,11 @@
+We have just seen you have signed up for our application and want to welcome you to the family. Please enjoy the reviews of all your  favourite films.
+
+
+
+AMOS - MIGRATIONS, TESTS, CONFIG, MANAGE, README, REQUIREMENTS, START.SH
+
+NAZARINE - AUTH, MAIN
+
+SAMUEL - TEMPLATES
+
+
